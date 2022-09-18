@@ -14,6 +14,21 @@ The app uses data from Typicode to display product images on the app main screen
 ## UI Design 🎨
 
 ***App user interface designed with Google Material Design***
+<br />
+
+## Day Mode 🌞
+Splash | Home 
+--- | --- 
+![](https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img1.jpg) | ![](https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img2.jpg)
+
+<br />
+
+## It Supports Dark Mode Too 🌚
+Splash | Home 
+--- | --- 
+![](https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img3.jpg) | ![](https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img4.jpg)
+
+<br />
 
 
 ## Pre-requisites
