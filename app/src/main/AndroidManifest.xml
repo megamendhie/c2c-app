@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mendhie.c2capp">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".MainApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ctc_icn"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ctc_icn"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.C2CApp">
+        <activity
+            android:name=".presentation.activities.SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".presentation.activities.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.C2CApp.NoActionBar" />
+    </application>
+
+</manifest>
