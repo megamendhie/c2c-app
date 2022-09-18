@@ -19,14 +19,14 @@ The app uses data from Typicode to display product images on the app main screen
 ## Day Mode 🌞
 Splash | Home 
 --- | --- 
-<img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img1.jpg">  | <img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img2.jpg" width="70%"> 
+<img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img1.jpg" width="80%">  | <img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img2.jpg" width="80%"> 
 
 <br />
 
 ## It Supports Dark Mode Too 🌚
 Splash | Home 
 --- | --- 
-<img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img3.jpg">  | <img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img4.jpg" width="70%"> 
+<img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img3.jpg" width="80%">  | <img src="https://raw.githubusercontent.com/megamendhie/c2c-app/main/images/img4.jpg" width="80%"> 
 
 <br />
 
