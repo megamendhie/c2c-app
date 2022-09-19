@@ -10,6 +10,7 @@ The app uses data from Typicode to display product images on the app main screen
 - [Hilt](https://dagger.dev/hilt/) - A fully static and optimized compile-time dependency injection framework for Android.
 - [Retrofit2](https://square.github.io/retrofit/) - A type-safe HTTP client for making network calls.
 - [Glide](https://bumptech.github.io/glide/) - An image loading and caching library for Android focused on smooth scrolling
+- [Espresso](https://developer.android.com/training/testing/espresso) - To write concise, beautiful, and reliable Android UI tests
 
 ## UI Design 🎨
 
