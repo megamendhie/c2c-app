@@ -23,15 +23,15 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.lstExhibits.layoutManager = LinearLayoutManager(this)
-        binding.lstExhibits.adapter = adapter
+        binding.lstAllExhibits.layoutManager = LinearLayoutManager(this)
+        binding.lstAllExhibits.adapter = adapter
 
         //listen to data change in viewModel and update recyclerView
         viewModel.getExhibits().observe(this, {exhibits -> updateExhibits(exhibits!!) })
 
         //listen for http request error and display message accordingly
         viewModel.errorListener().observe(this, {error ->
-            Snackbar.make(binding.lstExhibits, error, Snackbar.LENGTH_SHORT).show()
+            Snackbar.make(binding.lstAllExhibits, error, Snackbar.LENGTH_SHORT).show()
         })
     }
 
